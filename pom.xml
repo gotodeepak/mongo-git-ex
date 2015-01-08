@@ -3,4 +3,12 @@
   <groupId>com.example</groupId>
   <artifactId>mongoexample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>2.12.4</version>
+		</dependency>
+
+	</dependencies>
 </project>
